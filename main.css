@@ -37,7 +37,7 @@ nav h1 {
   margin-right: 1%;
 }
 
-nav button {
+nav a {
   background-color: rgba(255, 255, 255, 0.034);
   border: none;
   color: white;
